@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://www.canva.com/design/DAFSnbiEBKM/gGMHNsHo0SbWCFOWbXTFTw/watch)
+[![Header](https://ibb.co/vht5zh6 "Header")](https://www.canva.com/design/DAFSnbiEBKM/gGMHNsHo0SbWCFOWbXTFTw/watch)
 
 <p align="center">
     <a <h3 align="center">A passionate frontend developer from India</h3>
