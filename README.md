@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://subir-imagen.com/images/2022/11/21/Captura-de-pantalla-2022-11-21-170245.png "Header")](https://www.canva.com/design/DAFSnbiEBKM/gGMHNsHo0SbWCFOWbXTFTw/watch)
+[![Header](https://subir-imagen.com/images/2022/11/21/Bienvenidos.jpg "Header")](https://www.canva.com/design/DAFSnbiEBKM/gGMHNsHo0SbWCFOWbXTFTw/watch)
 
 <p align="center">
     <a <h3 align="center">A passionate frontend developer from India</h3>
