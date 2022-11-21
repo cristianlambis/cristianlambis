@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Header](https://subir-imagen.com/images/2022/11/21/Bienvenidos.jpg "Header")](https://www.canva.com/design/DAFSnbiEBKM/gGMHNsHo0SbWCFOWbXTFTw/watch)
 
 <p align="center">
-    <a <h3 align="center">A passionate frontend developer from India</h3>
+    <a <h3 align="center">A passionate backend developer from Colombia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
