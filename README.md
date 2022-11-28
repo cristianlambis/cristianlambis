@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 
 ## 👉 Sobre mí
-Orientado a **Microservicios**
+Soy un **Desarrollador Backend** centrado en microservicios con Spring Boot tanto con manejo de bases de datos relacionales y no relacionales.
 
