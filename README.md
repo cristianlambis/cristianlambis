@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://subir-imagen.com/images/2022/11/21/Bienvenidos.jpg "Header")](https://www.canva.com/design/DAFSnbiEBKM/gGMHNsHo0SbWCFOWbXTFTw/watch)
+[![Header](https://subir-imagen.com/i/wSocb "Header")](https://www.canva.com/design/DAFSnbiEBKM/gGMHNsHo0SbWCFOWbXTFTw/watch)
 
 <p align="center">
     <a <h3 align="center">A passionate backend developer from Colombia</h3>
