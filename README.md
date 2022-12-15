@@ -30,7 +30,7 @@ Soy un **Desarrollador Backend** centrado en microservicios con Spring Boot tant
 
 ## 📹 Favorite videos
 <a href='https://www.youtube.com/watch?v=utjwmTdkYws' title="Leyendas de la programación y el desarrollo de software - ver en Youtube" target='_blank'>
-  <img width='32%' alt='Leyendas de la programación y el desarrollo de software' />
+  <img width='32%'  src='https://i.postimg.cc/cJvBBnPz/Hola-mundo.jpg' alt='Leyendas de la programación y el desarrollo de software' />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
