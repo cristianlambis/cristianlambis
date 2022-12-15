@@ -41,7 +41,7 @@ Soy un **Desarrollador Backend** centrado en microservicios con Spring Boot tant
   <img width='32%'  src='https://i.ytimg.com/vi/AE8dJC8SqkM/maxresdefault.jpg' alt='¿ESTUDIAR programación a los 30? o Estudiar programación desde los 35 años' />
 </a>
 
-<h3 align="left">Languages and Tools:</h3>
+### Technologies & Tools:
 <a href=#> 
     <img src="svg/ java.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp; 
   </a>
@@ -53,7 +53,5 @@ Soy un **Desarrollador Backend** centrado en microservicios con Spring Boot tant
   </a>
   <a href=#> 
     <img src="svg/ docker.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
-  </a> </p>
-
-</p>
+  </a> 
 
