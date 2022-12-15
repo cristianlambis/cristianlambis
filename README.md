@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <a <h3 align="center">A passionate backend developer from Colombia</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cristianlambis)
 
 <h3 align="left">Languages and Tools:</h3>
