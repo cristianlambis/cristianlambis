@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 [![Header](https://i.postimg.cc/3Rmx5K8S/Welcome-3.png "Header")](https://www.canva.com/design/DAFUx_xfGTE/watch)
 
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cristianlambis)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:cristianlambis09@gmail.com)  
-
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/cristianlambis)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:cristianlambis09@gmail.com)  [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/cristianlambis)
 
 ## 👉 Sobre mí
 Soy un **Desarrollador Backend** centrado en microservicios con Spring Boot tanto con manejo de bases de datos relacionales y no relacionales.
