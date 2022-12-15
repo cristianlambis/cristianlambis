@@ -42,7 +42,7 @@ Soy un **Desarrollador Backend** centrado en microservicios con Spring Boot tant
 </a>
 
 ### Technologies & Tools:
-<a href=#> 
+  <a href=#> 
     <img src="svg/ java.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp; 
   </a>
   <a href=#> 
