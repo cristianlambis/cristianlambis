@@ -16,17 +16,10 @@ Here are some ideas to get you started:
 
 [![Header](https://i.postimg.cc/3Rmx5K8S/Welcome-3.png "Header")](https://www.canva.com/design/DAFUx_xfGTE/watch)
 
-<p align="center">
-    <a <h3 align="center">A passionate backend developer from Colombia</h3>
-
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cristianlambis)
-
-
-
 
 ## 👉 Sobre mí
 Soy un **Desarrollador Backend** centrado en microservicios con Spring Boot tanto con manejo de bases de datos relacionales y no relacionales.
-
 
 ## 📹 Favorite videos
 <a href='https://www.youtube.com/watch?v=utjwmTdkYws' title="Leyendas de la programación y el desarrollo de software - ver en Youtube" target='_blank'>
