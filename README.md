@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://subir-imagen.com/images/2023/01/18/Portada-GitHub-1.png "Header")](https://www.canva.com/design/DAFUx_xfGTE/watch)
+[![Header](https://subir-imagen.com/images/2023/10/25/Blue-Green-and-White-Modern-Tech-Web-Developer-LinkedIn-Banner.png "Header")](https://www.canva.com/design/DAFUx_xfGTE/watch)
 
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cristianlambis)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:cristianlambis09@gmail.com)  [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/cristianlambis)
